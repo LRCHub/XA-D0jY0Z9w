@@ -1,0 +1,87 @@
+# Doul – BE ME
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I belong in nowhere, solitary
+I can see it ever fleeting
+A knot in my heart
+and it disappears
+A note in for quiet
+and days of ease
+Everyone has a domain
+allowing no one
+Accuracy inside, yearned
+to find
+I thought I had been
+understandin' it,
+It's buried in noise
+and withering
+Love the life you live, live the
+life you love
+Love the life you live, live the
+life you love
+All of you have to take
+And everybody else may
+seem a lil' downward
+All of you have to take
+Soon, you will see
+All of you have to take
+And everybody's time may
+seem a lil' downward
+All of you have to take
+Oh, you will see
+Answers seeked,
+the conflict,soar
+Own Way progress,
+a long seen world
+High end essential I touch,
+redeem soul
+Through all the silence,
+a brand new wind blows
+It's just like every shape
+is shown…
+I'm watchin' every shape
+you've shown…
+It's just like every shape
+is shown…
+shape is shown…
+Sentiments in purity, had it
+when young
+What are we to find…
+Noise confines
+It's sounding within, and it
+resonates, you
+Always have known it
+either way
+Love the life you live, live the
+life you love
+Love the life you live, live the
+life you love
+All of you have to take
+And everybody else may seem a
+lil' downward
+All of you have to take
+Soon, you will see
+All of you have to take
+And everybody's time may seem a
+lil' downward
+All of you have to take
+Oh, you will see
+Answers seeked,
+the conflict,soar
+Own Way progress,
+a long seen world
+High end essential I touch,
+redeem soul
+This way forward,
+and now I see hope
+Conflicts soared, the answer
+will show
+Right Way progress,
+my feet to make sure
+Voice like eternity rings
+within notes
+Route is a definite,
+now the wind blows
+```
