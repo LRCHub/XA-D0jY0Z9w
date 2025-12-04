@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "BE ME",
+  "base_artist": "Doul",
+  "createdAt": "2025-12-04T12:28:01.423291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It'll Be Me",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/01_It'll_Be_Me_Exile.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It'll Be Me (Album Version)",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/02_It'll_Be_Me_(Album_Version)_Exile.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who Wouldn't Wanna Be Me",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/03_Who_Wouldn't_Wanna_Be_Me_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who Wouldn't Wanna Be Me (Single Version)",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/04_Who_Wouldn't_Wanna_Be_Me_(Single_Version)_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Gonna Be Me (With Strings)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_It's_Gonna_Be_Me_(With_Strings)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be Me See Me",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/06_Be_Me_See_Me_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To Be Me",
+      "artist": "London Elektricity",
+      "has_synced": false,
+      "path": "select/07_To_Be_Me_London_Elektricity.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Be Me",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/08_Never_Be_Me_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Friend Will Be Me",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/09_My_Friend_Will_Be_Me_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How About I Be Me",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/10_How_About_I_Be_Me_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How About I Be Me",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/11_How_About_I_Be_Me_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be Me",
+      "artist": "Eve feat. Mashonda Tifrere",
+      "has_synced": false,
+      "path": "select/12_Be_Me_Eve_feat._Mashonda_Tifrere.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be Me (feat. Mashonda Tifrere)",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/13_Be_Me_(feat._Mashonda_Tifrere)_Eve.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Why Did It Have To Be Me?",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/14_Why_Did_It_Have_To_Be_Me_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Let It Be Me",
+      "artist": "Scooter",
+      "has_synced": true,
+      "path": "select/15_Don't_Let_It_Be_Me_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why Can't I Be Me?",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "has_synced": true,
+      "path": "select/16_Why_Can't_I_Be_Me_Ariel_Pink's_Haunted_Graffiti.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It's so Fucking Hard to Be Me",
+      "artist": "LCMDF",
+      "has_synced": true,
+      "path": "select/17_It's_so_Fucking_Hard_to_Be_Me_LCMDF.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Woho, I Thought It Be Me & You",
+      "artist": "Leonell Cassio feat. Lily Hain",
+      "has_synced": true,
+      "path": "select/18_Woho,_I_Thought_It_Be_Me_&_You_Leonell_Cassio_feat._Lily_Hain.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "It Used to Be Me",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/19_It_Used_to_Be_Me_The_Cure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BE ME",
+      "artist": "Doul",
+      "has_synced": false,
+      "path": "select/pl_01_BE_ME_Doul.txt"
+    }
+  ]
+}
